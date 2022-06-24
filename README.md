@@ -1,4 +1,4 @@
-### Live long and prosper 👋
+### Live long and prosper 🖖
 
 - 🔭 Coding since 2007, for food since 2013 
 - 🌱 Sharing knowledge, disscussing news and reviewing companies at [ iOS Open Engineering Guild Ukraine ](https://t.me/ios_guild_ukraine)
